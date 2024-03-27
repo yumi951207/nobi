@@ -1,0 +1,2 @@
+PATH = r"\Users\nobi1\OneDrive\ドキュメント\nobi\fudosan_ver3\tool\chromedriver.exe"
+URL = "https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=030&bs=040&pc=20&smk=&po1=25&po2=99&shkr1=03&shkr2=03&shkr3=03&shkr4=03&sc=12204&ta=12&cb=0.0&ct=5.5&et=9999999&mb=0&mt=9999999&cn=9999999&tc=0401102&fw2="
